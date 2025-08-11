@@ -8,10 +8,10 @@ The objective of the project is to analyze Amazon Sales data to uncover trends, 
 Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise. Do ETL: ExtractTransform-Load some Amazon dataset and find for me Sales-trend -> month-wise, year-wise, yearly_month-wise.Find key metrics and factors and show the meaningful relationships between attributes.
 
 # Dataset
-[Amazon Sales data.csv](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/57c1c5c839896ed7b350c39251c0f3b3e8934fcc/Amazon%20Sales%20data.csv)
+[Amazon Sales data.csv](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/amazon_cleaned_dataset.xlsx)
 
 # Data Analysis
-[Python Data Analysis](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/775db16c2104ba77b8cb95f85b4d62606c68342e/Analyzing%20Amazon%20Sales%20by%20Fasil%20Feroz(Project%201).ipynb)
+[Python Data Analysis]()
 
 # Dashboard
 ![image alt](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/299ee099a352278d94a389d578d324c22fc1d2fd/Screenshot%201.png)
