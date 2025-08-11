@@ -34,4 +34,4 @@ In this project, I performed a detailed analysis of Amazon Sales data, aiming to
 In conclusion, this project has provided valuable insights. These results contribute to a better understanding of Analyzing Amazon Sales data and offer guidance for future work in this area.
 
 # Feedback
-If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/fasil-feroz/)# Amazon_data_analysis
+If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/muhammedshamilpp)# Amazon_data_analysis
